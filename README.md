@@ -14,6 +14,11 @@ styles.css: The CSS file for styling the homepage.
 
 README.md: This file.
 
+
+![Screenshot (1521)](https://github.com/user-attachments/assets/57efbb52-e4bd-4a8d-8a2d-6c312d93d41d)
+
+
+
 Features
 The Netflix Homepage Clone includes the following features:
 
@@ -29,3 +34,6 @@ Footer: A footer with links to important pages (e.g., About, Help Center, Terms 
 
 Usage
 Feel free to explore and interact with the different sections of the homepage. You can modify the content, styles, and scripts to customize the clone according to your preferences.
+
+
+![Screenshot (1519)](https://github.com/user-attachments/assets/c902abda-789e-411f-9023-7c8bf723a231)
